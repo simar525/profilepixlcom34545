@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://profiletalks.com/profile/bricenda/$1"
+ }
+  ]
+}
